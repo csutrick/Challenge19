@@ -16,7 +16,6 @@ All you have to do is type and watch your input be inputed into the text editor 
 ## Credits
 
 Cole Sutrick
-https://sequelize.org/docs/v6/core-concepts/model-querying-finders/ 
 
 ## License
 
